@@ -1,4 +1,4 @@
-# PocketMine Plugins
+# BlackPlugs
 
 ## Français
 Ceci est un repository GitHub concernant plusieurs plugins développés en PocketMine 4 pour vous faciliter la vie sur votre serveur.
