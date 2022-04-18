@@ -8,4 +8,9 @@ Ce repository a été créé par BlackCoder14.
 
 Nous recrutons des personnes capables de nous aider.
 
-Vous pourriez également trouver des cours *écrits* pour appt=rendre à utiliser PocketMine.
+Vous pourriez également trouver des cours *écrits* pour apprendre à utiliser PocketMine.
+
+### Plugins 
+Voici la liste des plugins disponnibles et en développement :
+ - SimpleGamemode : DEV
+ - SimpleSpawn    : DEV
